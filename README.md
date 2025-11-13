@@ -2,6 +2,18 @@
 
 A comprehensive dashboard for monitoring truck movements through gate in/out stations and weighing bridge operations.
 
+## Screenshots
+
+### Main Dashboard
+<div align="center">
+<img src="screenshoot/dashboard.png" alt="Dashboard Overview" width="1200"/>
+</div>
+
+### Transaction Details Modal
+<div align="center">
+<img src="screenshoot/modal.png" alt="Transaction Details Modal" width="800"/>
+</div>
+
 ## Features
 
 - Real-time monitoring of Gate In, Gate Out, and Weighing Bridge stations
