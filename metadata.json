@@ -1,0 +1,5 @@
+{
+  "name": "Process Monitoring Dashboard",
+  "description": "A dashboard for monitoring truck processing at an autogate system, showing real-time status of different stations and recent truck activity. The data is updated periodically to simulate a live feed.",
+  "requestFramePermissions": []
+}
